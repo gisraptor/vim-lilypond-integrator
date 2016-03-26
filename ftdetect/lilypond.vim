@@ -1,1 +1,4 @@
-au! BufNewFile,BufRead *.ly,*.ily       setfiletype lilypond
+"
+" Installed As:	vim/ftdetect/lilypond.vim
+"
+au! BufNewFile,BufRead *.ly,*.ily		set ft=lilypond
